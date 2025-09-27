@@ -1,0 +1,20 @@
+{
+  "token": "MTQxOTI3NDQyNzM4ODAwNjQyMw.GC00jK.W-TppAZfUJmomxQllYD0v9e9UJDelP-9e7rnOo",
+  "clientId": "1419274427388006423",
+  "vouchChannelId": "1419281963101196308",
+  "welcomeChannelId": "1418563297640321055",
+  "welcomeImageUrl": "https://cdn.discordapp.com/ephemeral-attachments/1420293825036816469/1420294216621359176/1758608184435.jpg?ex=68d4df91&is=68d38e11&hm=04037e738a46e4fe024d90422464c808c58d999e168bb8516ac322b11bfb362f&",
+  "goodbyeChannelId": "1418563348659834952",
+  "goodbyeImageUrl": "https://cdn.discordapp.com/attachments/1388361242670010449/1419706278736953354/20250922_232437.png?ex=68d2bc01&is=68d16a81&hm=d2424f857ab4b9b89fe4310436a2d50cf648e97c9d3884f36fbd70cce3adb691&",
+  "geminiApiKey": "AIzaSyALwI9zbJeQwil7jcnP0P7J23v3P1sKAFw", 
+  "weatherApiKey": "64ad6f118b2d4bddb41135233252509",
+  "ticketStaffRoleIds": [
+    "1419244766490660864", 
+    "1418562715789824110"
+  ],
+  
+  "vouchRoleId": "<@&1418831966660460597>",
+  "paymentCategoryId": "1419351111818674216",
+  "ownerRoleMention": "<@&1418562715789824110>",
+  "adminRoleMention": "<@&1419244766490660864>"
+}
